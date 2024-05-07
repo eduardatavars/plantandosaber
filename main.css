@@ -218,6 +218,14 @@ footer nav a {
     color: var(--color-primary);
 }
 
+.text-strong {
+    color: #FBFAEE;
+}
+
+.text-secundary {
+    color: #D7D5C1; 
+}
+
 .text-center {
     text-align: center;
 }
